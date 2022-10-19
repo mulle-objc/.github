@@ -6,4 +6,4 @@ such as **NSObject**, for Objective-C projects .
 
 * [MulleFoundation](//github.com/MulleFoundation) provides a full featured class system
 * [mulle-cc](//github.com/mulle-cc) provides the compiler and the debugger
-* [mulle-core](//github.com/mulle-cc) provides the runtime with fundamental C libraries
+* [mulle-core](//github.com/mulle-core) provides the runtime with fundamental C libraries
