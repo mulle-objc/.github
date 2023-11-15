@@ -7,3 +7,7 @@ such as **NSObject**, for Objective-C projects .
 * [MulleFoundation](//github.com/MulleFoundation) provides a full featured class system
 * [mulle-cc](//github.com/mulle-cc) provides the compiler and the debugger
 * [mulle-core](//github.com/mulle-core) provides the runtime with fundamental C libraries
+
+See also:
+
+* [MulleWeb](//github.com/MulleWeb) class libraries for web projects
