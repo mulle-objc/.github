@@ -1,4 +1,4 @@
-# mulle-objc runtime and root classes
+# mulle-objc - runtime and root classes
 
 The mulle-objc-runtime C library is a required library for all mulle-objc projects.
 The MulleObjC Objective-C library contains the familiar set of root classes, 
