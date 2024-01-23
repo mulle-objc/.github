@@ -4,7 +4,7 @@ The mulle-objc-runtime C library is the backbone of all mulle-objc projects.
 The MulleObjC Objective-C library uses the runtime, to provide the familiar set of root classes, 
 such as **NSObject**, for Objective-C projects . 
 
-* Install it with [foundation-developer]((//github.com/MulleFoundation/foundation-developer)
+* Install it with [foundation-developer](//github.com/MulleFoundation/foundation-developer)
 
 See also:
 
