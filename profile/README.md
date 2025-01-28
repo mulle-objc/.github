@@ -1,5 +1,3 @@
-# mulle-objc - runtime and root classes
-
 The [mulle-objc-runtime](//github.com/mulle-objc/mulle-objc-runtime) **C** library is the backbone of all mulle-objc projects.
 The [MulleObjC](//github.com/mulle-objc/MulleObjC) **Objective-C** library uses the runtime, to provide the familiar set of root classes, 
 such as `NSObject`, for Objective-C projects . 
